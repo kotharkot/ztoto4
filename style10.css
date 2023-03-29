@@ -1,0 +1,106 @@
+section{
+    width: 1000px;
+    text-align: 0;
+    margin-left: 0;
+    margin: right: 0;
+}
+.d1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: 1600px; width: 1000px;
+    border: 10px solid rgb(250, 250, 250); 
+}
+body{
+    font-weight: normal;
+    font-style: normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('фонкосмос.jpeg');
+    
+}
+.i1{
+    margin-left: auto;
+}
+header{
+    background-color: black;
+    color: white;
+    height: 400px; width: 550px; 
+    margin-left: 300px;
+    padding-left: 0px;
+    padding-right: 50px;
+    border: 10px solid rgb(243, 243, 243); 
+} 
+.p1{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 5px solid rgb(250, 250, 250); 
+    box-shadow: 0 4px 8px 0 green;
+    border-radius: 15%;
+    overflow:hidden;
+    height: 200px; width: 600px; 
+    margin-left: 300px;
+    padding-left: 5px;
+    padding-right: 0px 
+
+}
+.d2{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 5px solid rgb(250, 250, 250); 
+    box-shadow: 0 4px 8px 0 green;
+    border-radius: 15%;
+    overflow:hidden;
+    height: 200px; width: 600px; 
+    margin-left: 300px;
+    padding-left: 5px;
+    padding-right: 0px 
+}
+.d3{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 5px solid rgb(250, 250, 250); 
+    box-shadow: 0 4px 8px 0 green;
+    border-radius: 15%;
+    overflow:hidden;
+    height: 550px; width: 600px; 
+    margin-left: 300px;
+    padding-left: 5px;
+    padding-right: 0px 
+}
+.d4{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 5px solid rgb(250, 250, 250); 
+    box-shadow: 0 4px 8px 0 green;
+    border-radius: 15%;
+    overflow:hidden;
+    height: 650px; width: 600px; 
+    margin-left: 300px;
+    padding-left: 5px;
+    padding-right: 0px 
+}
+.d5{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 5px solid rgb(250, 250, 250); 
+    box-shadow: 0 4px 8px 0 green;
+    border-radius: 15%;
+    overflow:hidden;
+    height: 850px; width: 600px; 
+    margin-left: 300px;
+    padding-left: 5px;
+    padding-right: 0px 
+}
+.d6{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 5px solid rgb(250, 250, 250); 
+    box-shadow: 0 4px 8px 0 green;
+    border-radius: 15%;
+    overflow:hidden;
+    height: 300px; width: 600px; 
+    margin-left: 300px;
+    padding-left: 5px;
+    padding-right: 0px 
+}
+
